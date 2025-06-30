@@ -65,14 +65,6 @@ echo "GROQ_API_KEY=your_api_key_here" > .env
 # Run the app
 python app.py
 
-## 🖼️ Demo Screenshot
-
-This is how the app looks when a debate is generated:
-
-![AI Debate Example](AI debate.png)
-
-
-
 Sample Debate
 Topic: Is AI taking away human jobs?
 
