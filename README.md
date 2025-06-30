@@ -95,8 +95,8 @@ Con Score: 9.5
 This project is licensed under the MIT License.
 Feel free to use, modify, and extend it for research or educational purposes.
 
-👩‍🎓 Created By
-K. Karthiga Alias Amali
+##  Created By
+ # K. Karthiga Alias Amali
 Final Year MSc Data Science
  A capstone project demonstrating multi-agent LLM coordination, debate scoring, and ethical AI reasoning.
 
