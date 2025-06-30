@@ -1,0 +1,48 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Gradio temporary files
+gradio_cached_examples/
+gradio_cache/
+
+# VSCode & JetBrains config
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files (contains API keys)
+.env
+.env.*
+
+# Logs
+*.log
+
+# Output files
+*.mp4
+*.avi
+*.wav
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# Others
+*.bak
+*.swp
